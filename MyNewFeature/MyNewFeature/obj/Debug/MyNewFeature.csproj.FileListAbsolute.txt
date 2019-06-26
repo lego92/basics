@@ -1,6 +1,0 @@
-C:\WORK\Geekbrains\Git - Quick Start\basics\MyNewFeature\MyNewFeature\bin\Debug\MyNewFeature.exe.config
-C:\WORK\Geekbrains\Git - Quick Start\basics\MyNewFeature\MyNewFeature\bin\Debug\MyNewFeature.exe
-C:\WORK\Geekbrains\Git - Quick Start\basics\MyNewFeature\MyNewFeature\bin\Debug\MyNewFeature.pdb
-C:\WORK\Geekbrains\Git - Quick Start\basics\MyNewFeature\MyNewFeature\obj\Debug\MyNewFeature.csproj.CoreCompileInputs.cache
-C:\WORK\Geekbrains\Git - Quick Start\basics\MyNewFeature\MyNewFeature\obj\Debug\MyNewFeature.exe
-C:\WORK\Geekbrains\Git - Quick Start\basics\MyNewFeature\MyNewFeature\obj\Debug\MyNewFeature.pdb
